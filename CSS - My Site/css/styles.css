@@ -7,13 +7,15 @@ h1 {
 .cloud {
   width: 30%;
   display: inline;
+  position: relative;
+  right: 20px;
 }
 .mountain {
   height: 50px;
   width: 50px;
   display: block;
-  position: relative;
-  left: 30px;
+  position: absolute;
+  right: 30px;
 }
 div {
   background-color: #e4f9f5;
