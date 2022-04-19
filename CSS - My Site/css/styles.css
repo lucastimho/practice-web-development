@@ -7,11 +7,16 @@ h1 {
 div {
   background-color: #e4f9f5;
 }
+.top-container {
+  background-color: #e4f9f5;
+}
 .middle-container {
-  background-color: blue;
-  border-radius: 200px;
+  background-color: red;
+  width: 200px;
+  height: 200px;
 }
 .bottom-container {
-  background-color: red;
-  border-radius: 200px;
+  background-color: blue;
+  width: 200px;
+  height: 200px;
 }
