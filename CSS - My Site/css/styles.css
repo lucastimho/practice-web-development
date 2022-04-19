@@ -4,6 +4,15 @@ body{
 h1 {
   margin-top: 0;
 }
+.cloud {
+  width: 30%;
+  display: inline;
+}
+.mountain {
+  height: 50px;
+  width: 50px;
+  display: block;
+}
 div {
   background-color: #e4f9f5;
 }
