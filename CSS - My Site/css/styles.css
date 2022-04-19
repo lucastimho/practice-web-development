@@ -19,7 +19,7 @@ div {
   width: 200px;
   height: 200px;
   border: solid 20px;
-  margin: 260px;
+  margin: 0 260px;
 }
 .bottom-container {
   background-color: blue;
