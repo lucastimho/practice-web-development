@@ -7,20 +7,18 @@ h1 {
   margin: 0 auto 0 auto;
 }
 .cloud-top {
-  width: 50%;
   display: inline;
   position: relative;
   right: 20px;
 }
 .mountain {
-  height: 75px;
-  width: 75px;
+  height: auto;
+  width: auto;
   display: block;
   position: relative;
   left: 60px;
 }
 .cloud-bottom{
-  width: 30%;
   position: relative;
   right: 30px;
 }
@@ -29,9 +27,8 @@ div {
 }
 .top-container {
   background-color: #e4f9f5;
-  width: 200px;
-  height: 200px;
-  border: solid 10px;
+  height: auto;
+  width: auto;
   padding: 20px;
 }
 .middle-container {
