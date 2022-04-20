@@ -8,19 +8,18 @@ h1 {
 }
 .cloud-top {
   display: inline;
-  position: relative;
-  right: 20px;
+  position: absolute;
+  right: 300px;
+  top: 50px;
 }
 .mountain {
   height: auto;
   width: auto;
-  display: block;
-  position: relative;
-  left: 60px;
 }
 .cloud-bottom{
-  position: relative;
-  right: 30px;
+  position: absolute;
+  left: 300px;
+  bottom: 300px;
 }
 div {
   background-color: #e4f9f5;
@@ -29,7 +28,8 @@ div {
   background-color: #e4f9f5;
   height: auto;
   width: auto;
-  padding: 20px;
+  position: relative;
+  padding-top: 100px;
 }
 .middle-container {
   background-color: red;
