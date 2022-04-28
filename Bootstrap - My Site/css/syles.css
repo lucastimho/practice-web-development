@@ -17,3 +17,10 @@ h1 {
 body {
   font-family: 'Montserrat', 'sans-serif';
 }
+
+/* Navigation Bar */
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2.5rem;
+  font-weight: bold;
+}
