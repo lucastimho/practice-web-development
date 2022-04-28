@@ -9,6 +9,9 @@ h3 {
   font-family: 'Montserrat-Bold';
   font-weight: bold;
 }
+p {
+  color: #8f8f8f
+}
 .container-fluid {
   padding: 3% 15%;
 }
