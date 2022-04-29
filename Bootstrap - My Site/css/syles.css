@@ -67,3 +67,8 @@ body {
 .icon:hover {
   color: #ff4c68;
 }
+
+/* Testimonials */
+#testimonials {
+  padding: 7% 15%;
+}
