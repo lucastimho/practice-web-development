@@ -119,3 +119,7 @@ body {
     transform: rotate(0);
   }
 }
+/* CTA Section */
+#cta {
+  background-color: #ff4c68;
+}
