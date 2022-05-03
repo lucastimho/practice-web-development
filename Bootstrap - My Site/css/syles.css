@@ -19,7 +19,7 @@ p {
   color: #8f8f8f
 }
 .container-fluid {
-  padding: 3% 15%;
+  padding: 3% 15% 7%;
 }
 #title {
   background-color: #ff4c68;
@@ -55,7 +55,7 @@ body {
   margin: 5% 3% 5% 0;
 }
 
-/* Title Image */
+/* Title Section */
 .title-image {
   width: 20%;
   transform: rotate(25deg);
