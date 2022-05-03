@@ -60,15 +60,14 @@ body {
   width: 20%;
   transform: rotate(25deg);
   position: absolute;
+  right: 30%;
 }
 
 /* Feature Section */
 #features {
-  text-align: center;
   padding: 7% 15%;
   background-color: #fff;
   position: relative;
-  z-index: 1;
 }
 .icon {
   color: #ef8172;
