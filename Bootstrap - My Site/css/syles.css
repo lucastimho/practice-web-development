@@ -60,7 +60,7 @@ body {
   width: 20%;
   transform: rotate(25deg);
   position: absolute;
-  right: 30%;
+  right: 15%;
 }
 
 /* Feature Section */
@@ -109,4 +109,9 @@ body {
 }
 .pricing-column {
   padding: 3% 2%;
+}
+@media (max-width: 1028px) {
+  .title-image {
+    position: static;
+  }
 }
