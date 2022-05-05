@@ -103,6 +103,10 @@ p {
   font-size: 3rem;
   line-height: 1.5;
 }
+.section-heading {
+  font-size: 3rem;
+  line-height: 1.5;
+}
 
 /* Pricing Section */
 #pricing {
