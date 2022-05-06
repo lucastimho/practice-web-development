@@ -74,6 +74,9 @@ p {
 .icon:hover {
   color: #ff4c68;
 }
+.feature-title {
+  font-size: 1.5rem;
+}
 
 /* Testimonials */
 #testimonials {
