@@ -1,2 +1,2 @@
 alert("Hello");
-document.querySelector("button").classList.add("invisible");
+document.querySelector("h1").classList.add("huge");
