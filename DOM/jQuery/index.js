@@ -19,6 +19,9 @@ $("h1").on("mouseover", function() {
 // $("button").on("click", function() {
 //   $("h1").fadeToggle()
 // })
+// $("button").on("click", function() {
+//   $("h1").slideToggle()
+// })
 $("button").on("click", function() {
-  $("h1").slideToggle()
+  $("h1").animate({opacity: 0.5}).animate({margin: 20})
 })
