@@ -16,6 +16,9 @@ $("h1").on("mouseover", function() {
 // $("h1").after("<button>New</button>")
 // $("h1").prepend("<button>New</button>")
 // $("h1").append("<button>New</button>")
+// $("button").on("click", function() {
+//   $("h1").fadeToggle()
+// })
 $("button").on("click", function() {
-  $("h1").fadeToggle()
+  $("h1").slideToggle()
 })
